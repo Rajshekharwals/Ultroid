@@ -7,3 +7,8 @@ flask
 flask_restful
 GitPython
 requests
+bs4
+telegraph
+htmlwebshot
+yt_dlp
+akinator
